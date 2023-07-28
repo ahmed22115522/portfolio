@@ -1,0 +1,8 @@
+export {default as bootstrap} from '../skills/bootstrap.png'
+export {default as css} from '../skills/css.png'
+export {default as html} from '../skills/html.png'
+export {default as next} from '../skills/next.png'
+export {default as react} from '../skills/react.png'
+export {default as sanity} from '../skills/sanity.png'
+export {default as tailwind} from '../skills/tailwind.png'
+export {default as typescript} from '../skills/bootstrap.png'
